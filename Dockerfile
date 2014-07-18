@@ -20,4 +20,4 @@ ENV GOROOT /usr/local/go
 ENV PATH $PATH:$GOROOT/bin
 VOLUME [ "/go" ]
 
-CMD ["/usr/local/liteide/bin/liteide"]
+CMD ["/bin/bash"]
