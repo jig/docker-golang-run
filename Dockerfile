@@ -5,7 +5,7 @@ ENV TERM linux
 RUN apt-get -y update
 
 # Download general prerequisites
-RUN apt-get -y install wget bzip2 git-core bzr
+RUN apt-get -y install wget bzip2 git-core bzr net-tools
 
 # golang install
 ENV VERSION 1.2.2
