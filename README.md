@@ -5,7 +5,7 @@ Go language container (golang) that can run "go service scripts".
 
 Softare versions:
 
-- Go 1.2.2 (it seems that Go 1.3 is not working properly for debugging https://code.google.com/p/go/issues/detail?id=8098)
+- Go 1.4.2
 
 Run
 ---
