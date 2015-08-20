@@ -5,7 +5,8 @@ Go language container (golang) that can run "go service scripts".
 
 Softare versions:
 
-- Go 1.4.2
+- Go 1.4.2 (v1.4.2 tag)
+- Go 1.5 (v1.5 and latest tags)
 
 Run
 ---
